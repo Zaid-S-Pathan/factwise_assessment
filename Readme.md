@@ -67,7 +67,7 @@ Follow the steps below to get your development environment set up:
 **Start the server:**
     python manage.py runserver
 
-**Visit http://127.0.0.1:8000/ in your browser to access the application.**
+**Visit http://127.0.0.1:8000/admin/ in your browser to access the application.**
 
 ## 4. Usage
 
