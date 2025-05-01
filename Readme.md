@@ -80,7 +80,7 @@ Once the application is running, you can interact with it through the **Django A
 
 #### Screenshot
 
-![Admin Panel Screenshot](screenshots/adminlogin.PNG)
+![Admin Panel Screenshot](./screenshots/adminlogin.PNG)
 
 
 # 🧾 Task Planner API Documentation
@@ -155,9 +155,9 @@ The following REST API endpoints are available in the Task Planner system.
     }
 ```
 #### Screenshot of User Creation
-![Screenshot](screenshots/createuser.PNG)
+![Screenshot](./screenshots/createuser.PNG)
 #### Screenshot of Team Creation
-![Screenshot](screenshots/createteam.PNG)
+![Screenshot](./screenshots/createteam.PNG)
 
 ## 6 Project Structure
 
@@ -200,13 +200,13 @@ The following custom admin actions are available:
 - **Export Boards**: Allows you to export board details to a 'out' file.
 
 #### Screenshot of User Creation In Admin Panel
-![Screenshot](screenshots/adminuser.PNG)
+![Screenshot](./screenshots/adminuser.PNG)
 successfully added user!
-![Screenshot](screenshots/admincreatedone.PNG)
+![Screenshot](./screenshots/admincreatedone.PNG)
 
 #### Screenshot of Team Creation In Admin Panel
-![Screenshot](screenshots/adminteamcreate.PNG)
+![Screenshot](./screenshots/adminteamcreate.PNG)
 successfully added team!
-![Screenshot](screenshots/adminteamdone.PNG)
+![Screenshot](./screenshots/adminteamdone.PNG)
 
 
