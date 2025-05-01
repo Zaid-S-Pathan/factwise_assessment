@@ -1,12 +1,12 @@
-## Table of Contents
+## Table of Content
 
-1. [General inoformation](#general_information)
-2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [API Endpoints](#api-endpoints)
-6. [Project Structure](#project-structure)
-7. [Admin Actions](#admin-actions)
+1. General inoformation
+2. Requirements
+3. Installation
+4. Usage
+5. API Endpoints
+6. Project Structure
+7. Admin Actions
 
 
 ## 1. General information
