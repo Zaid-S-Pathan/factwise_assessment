@@ -201,12 +201,18 @@ The following custom admin actions are available:
 
 #### Screenshot of User Creation In Admin Panel
 ![Screenshot](./screenshots/adminuser.png)
-successfully added user!
+
+
+Successfully added user!
+
 ![Screenshot](./screenshots/admincreatedone.png)
 
 #### Screenshot of Team Creation In Admin Panel
 ![Screenshot](./screenshots/adminteamcreate.png)
-successfully added team!
+
+
+Successfully added team!
+
 ![Screenshot](./screenshots/adminteamdone.png)
 
 
