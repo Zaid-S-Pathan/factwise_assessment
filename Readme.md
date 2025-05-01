@@ -62,7 +62,7 @@ Follow the steps below to get your development environment set up:
 
     python manage.py createsuperuser
 #### Screenshot
-![Screenshot](screenshots/superuser.PNG)
+![Screenshot](./screenshots/superuser.png)
 
 **Start the server:**
     python manage.py runserver
