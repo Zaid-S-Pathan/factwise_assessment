@@ -215,4 +215,13 @@ Successfully added team!
 
 ![Screenshot](./screenshots/adminteamdone.png)
 
+#### Screenshot of Exporting Board
+
+![Screenshot](./screenshots/export.png)
+
+
+Successfully the board is exported to out folder!
+
+![Screenshot](./screenshots/exportdone.png)
+
 
