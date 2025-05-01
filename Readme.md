@@ -1,6 +1,6 @@
 ## Table of Content
 
-1. General inoformation
+1. General information
 2. Requirements
 3. Installation
 4. Usage
