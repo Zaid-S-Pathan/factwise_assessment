@@ -228,7 +228,8 @@ Successfully the board is exported to out folder!
 
 
 ### 8. Contacts
-**Email :** mohammedzaid.s.pathan@gmail.com
-**Contact Number :** 8108894586  
+
+- **Email :** mohammedzaid.s.pathan@gmail.com
+- **Contact Number :** +91-810-889-4586  
 
 
