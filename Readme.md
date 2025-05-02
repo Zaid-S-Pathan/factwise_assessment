@@ -7,6 +7,8 @@
 5. API Endpoints
 6. Project Structure
 7. Admin Actions
+8. Contact
+
 
 
 ## 1. General information
@@ -223,5 +225,10 @@ Successfully added team!
 Successfully the board is exported to out folder!
 
 ![Screenshot](./screenshots/exportdone.png)
+
+
+### 7. Contacts
+**Email :** mohammedzaid.s.pathan@gmail.com
+**Contact Number :** 8108894586  
 
 
