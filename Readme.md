@@ -227,7 +227,7 @@ Successfully the board is exported to out folder!
 ![Screenshot](./screenshots/exportdone.png)
 
 
-### 7. Contacts
+### 8. Contacts
 **Email :** mohammedzaid.s.pathan@gmail.com
 **Contact Number :** 8108894586  
 
