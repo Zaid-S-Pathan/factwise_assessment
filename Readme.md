@@ -13,7 +13,7 @@
 
 ## 1. General information
 
-Task Planner is a web-based application built using Django that helps teams manage and track tasks, boards, and user assignments. It allows for task assignment, team management, board organization, and more. The project utilizes a REST API for handling data operations.
+ColabTrack is a web-based application built using Django that helps teams manage and track tasks, boards, and user assignments. It allows for task assignment, team management, board organization, and more. The project utilizes a REST API for handling data operations.
 
 ### Features
 - Create, update, and manage tasks.
